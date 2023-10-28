@@ -8,12 +8,11 @@ These packages can be used for the analysis for Test, ODI and Twenty20 cricket. 
 This latest edition also includes features for analysis of teams and for granular analysis of players. This functionality is included in both cricketr and cricpy.
 
 ## CONTENTS
-Introduction .................................................................................... 8
-1. Cricket analytics with cricketr ............................................... 10
-1.1. Introducing cricketr! : An R package to analyze
-performances of cricketers ........................................................ 11
-1.2. Taking cricketr for a spin – Part 1 ................................. 49
-1.2. cricketr digs the Ashes! ................................................. 70
+Introduction .................................................................................... 8 <br>
+1. Cricket analytics with cricketr ............................................... 10 <br>
+1.1. Introducing cricketr! : An R package to analyze performances of cricketers ........................................................ 11 <br>
+1.2. Taking cricketr for a spin – Part 1 ................................. 49 <br>
+1.2. cricketr digs the Ashes! ................................................. 70 <br>
 1.3. cricketr plays the ODIs! ................................................. 98
 1.4. cricketr adapts to the Twenty20 International! ............ 140
 1.5. Sixer – R package cricketr’s new Shiny avatar ........... 169
