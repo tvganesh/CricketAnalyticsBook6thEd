@@ -6,6 +6,8 @@ top cricket players in the world, based on ESPN Cricinfo Statsguru, with 2 packa
 These packages can be used for the analysis for Test, ODI and Twenty20 cricket. The book contains details on how to use the packages cricketr & cricpy for analysis of other players.
 
 This latest edition also includes features for analysis of teams and for granular analysis of players. This functionality is included in both cricketr and cricpy.
+# Note: 
+### Click 'CricketAnalyticsBook6thEd' and click on the download button on top right corner
 
 ## CONTENTS
 Introduction .................................................................................... 8 <br>
