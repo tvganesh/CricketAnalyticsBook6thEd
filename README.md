@@ -6,3 +6,53 @@ top cricket players in the world, based on ESPN Cricinfo Statsguru, with 2 packa
 These packages can be used for the analysis for Test, ODI and Twenty20 cricket. The book contains details on how to use the packages cricketr & cricpy for analysis of other players.
 
 This latest edition also includes features for analysis of teams and for granular analysis of players. This functionality is included in both cricketr and cricpy.
+
+## CONTENTS
+Introduction .................................................................................... 8
+1. Cricket analytics with cricketr ............................................... 10
+1.1. Introducing cricketr! : An R package to analyze
+performances of cricketers ........................................................ 11
+1.2. Taking cricketr for a spin – Part 1 ................................. 49
+1.2. cricketr digs the Ashes! ................................................. 70
+1.3. cricketr plays the ODIs! ................................................. 98
+1.4. cricketr adapts to the Twenty20 International! ............ 140
+1.5. Sixer – R package cricketr’s new Shiny avatar ........... 169
+1.6. Re-introducing cricketr! : An R package to analyze
+performances of cricketers ...................................................... 179
+1.7. cricketr sizes up legendary All-rounders of yesteryear234
+1.8. cricketr flexes new muscles: The final analysis .......... 278
+1.9. The Clash of the Titans in Test and ODI cricket ......... 301
+1.10. Analyzing performances of cricketers using
+cricketr template ...................................................................... 339
+1.11. Cricketr adds team analytics to its repertoire!!! ...... 353
+3 ODI ....................................................................................... 362
+1.12. Cricketr learns new tricks : Performs fine-grained
+analysis of players ................................................................... 374
+2. Cricket analytics with cricpy ............................................... 403
+2.1 Introducing cricpy:A python package to analyze
+performances of cricketers ...................................................... 404
+2.2 Cricpy takes a swing at the ODIs ................................ 455
+Analysis of Top 4 batsman ...................................................... 498
+2.3 Cricpy takes guard for the Twenty20s ......................... 499
+2.4 Analyzing batsmen and bowlers with cricpy template 540
+9. Average runs against different opposing teams ................... 543
+2.5 Cricpy adds team analytics to its arsenal!! .................. 551
+2.6 Cricpy performs granular analysis of players .............. 573
+3. Cricketr analyzes Ind-Aus faceoff in WTC 2023!! ............. 599
+4. Other topics of cricket in R ................................................ 721
+4.1 Analyzing cricket’s batting legends – Through the
+mirage with R .......................................................................... 721
+4.2 Mirror, mirror … the best batsman of them all? ......... 747
+5. Appendix ............................................................................. 761
+6. Cricket analysis with Machine Learning using Octave ....... 761
+Cricket analytics with cricketr and cricpy
+v
+6.1 Informed choices through Machine Learning –
+Analyzing Kohli, Tendulkar and Dravid ................................. 762
+6.2 Informed choices through Machine Learning-2 Pitting
+together Kumble, Kapil, Chandra............................................ 775
+6.3 Essential R ................................................................... 789
+6.4 Essential Python for Datascience ................................ 846
+6.5 R vs Python ................................................................. 875
+Further reading ............................................................................ 898
+Important Links ........................................................................... 899
