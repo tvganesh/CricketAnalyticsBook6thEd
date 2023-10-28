@@ -22,12 +22,12 @@ Introduction ...................................................................
 1.7. cricketr sizes up legendary All-rounders of yesteryear ...   234 <br>
 1.8. cricketr flexes new muscles: The final analysis .......... 278 <br>
 1.9. The Clash of the Titans in Test and ODI cricket ......... 301 <br>
-1.10. Analyzing performances of cricketers using cricketr template ...................................................................... 339 <br>
+1.10. Analyzing performances of cricketers using cricketr template ..................................... 339 <br>
 1.11. Cricketr adds team analytics to its repertoire!!! ...... 353  <br>
 3 ODI ....................................................................................... 362 <br>
-1.12. Cricketr learns new tricks : Performs fine-grained analysis of players ................................................................... 374 <br>
+1.12. Cricketr learns new tricks : Performs fine-grained analysis of players .......................... 374 <br>
 2. Cricket analytics with cricpy ............................................... 403 <br>
-2.1 Introducing cricpy:A python package to analyze performances of cricketers ...................................................... 404 <br>
+2.1 Introducing cricpy:A python package to analyze performances of cricketers ......................... 404 <br>
 2.2 Cricpy takes a swing at the ODIs ................................ 455 <br>
 Analysis of Top 4 batsman ...................................................... 498 <br>
 2.3 Cricpy takes guard for the Twenty20s ......................... 499 <br>
@@ -37,14 +37,14 @@ Analysis of Top 4 batsman ......................................................
 2.6 Cricpy performs granular analysis of players .............. 573 <br>
 3. Cricketr analyzes Ind-Aus faceoff in WTC 2023!! ............. 599 <br>
 4. Other topics of cricket in R ................................................ 721 <br>
-4.1 Analyzing cricket’s batting legends – Through the mirage with R .......................................................................... 721 <br>
+4.1 Analyzing cricket’s batting legends – Through the mirage with R ............................. 721 <br>
 4.2 Mirror, mirror … the best batsman of them all? ......... 747 <br>
 5. Appendix ............................................................................. 761 <br>
 6. Cricket analysis with Machine Learning using Octave ....... 761 <br>
 Cricket analytics with cricketr and cricpy <br>
 v
-6.1 Informed choices through Machine Learning – Analyzing Kohli, Tendulkar and Dravid ................................. 762 <br>
-6.2 Informed choices through Machine Learning-2 Pitting together Kumble, Kapil, Chandra............................................ 775 <br>
+6.1 Informed choices through Machine Learning – Analyzing Kohli, Tendulkar and Dravid ............ 762 <br>
+6.2 Informed choices through Machine Learning-2 Pitting together Kumble, Kapil, Chandra........... 775 <br>
 6.3 Essential R ................................................................... 789 <br>
 6.4 Essential Python for Datascience ................................ 846 <br>
 6.5 R vs Python ................................................................. 875 <br>
