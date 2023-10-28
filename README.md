@@ -7,7 +7,7 @@ These packages can be used for the analysis for Test, ODI and Twenty20 cricket. 
 
 This latest edition also includes features for analysis of teams and for granular analysis of players. This functionality is included in both cricketr and cricpy.
 # Note: 
-#### Click 'Cricketanalytics-6thEd.pdf' and click on the download button on top right corner
+#### Click 'Cricket analytics-6th Edition.pdf' and click on the download button on top right corner
 
 ## CONTENTS
 Introduction .................................................................................... 8 <br>
