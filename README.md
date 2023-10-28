@@ -12,13 +12,13 @@ This latest edition also includes features for analysis of teams and for granula
 ## CONTENTS
 Introduction .................................................................................... 8 <br>
 1. Cricket analytics with cricketr ............................................... 10 <br>
-1.1. Introducing cricketr! : An R package to analyze performances of cricketers ........................................................ 11 <br>
+1.1. Introducing cricketr! : An R package to analyze performances of cricketers .................. 11 <br>
 1.2. Taking cricketr for a spin – Part 1 ................................. 49 <br>
 1.2. cricketr digs the Ashes! ................................................. 70 <br>
 1.3. cricketr plays the ODIs! ................................................. 98 <br>
 1.4. cricketr adapts to the Twenty20 International! ............ 140 <br>
 1.5. Sixer – R package cricketr’s new Shiny avatar ........... 169 <br>
-1.6. Re-introducing cricketr! : An R package to analyze performances of cricketers ...................................................... 179 <br>
+1.6. Re-introducing cricketr! : An R package to analyze performances of cricketers ..................... 179 <br>
 1.7. cricketr sizes up legendary All-rounders of yesteryear ...   234 <br>
 1.8. cricketr flexes new muscles: The final analysis .......... 278 <br>
 1.9. The Clash of the Titans in Test and ODI cricket ......... 301 <br>
